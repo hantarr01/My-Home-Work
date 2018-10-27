@@ -1,7 +1,10 @@
 body {
 	margin:0;
     padding: 0;
- background-color:#94b2ce;  
+    background-color:#94b2ce;  
+    background-image: url("../photo/b.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
 }
 
 header{
@@ -84,5 +87,14 @@ bottom: 17px;
 	height: 1000px;
     margin-left: 125px;
     margin-top: 45px;
-	background-color: gray; 
+    margin-bottom: 100px;
+	background-color: #395778; 
+	opacity: 0.6;
+}
+
+footer{
+	width: 100%;
+	height: 200px;
+	background-color: #4285b4;
+	opacity: 0.5;
 }
