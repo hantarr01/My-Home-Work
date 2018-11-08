@@ -21,14 +21,15 @@ form{
 	left: 2px;
 }
 
+.fBlock{
+	margin-left: 50px
+}
+
 .logo{
 	height: 45px;
 	width: 45px;
-	position: relative;
-	bottom: 32px;
-    left: 1230px;
-    top: -35px;
-     
+    margin-top: -32px
+    
 }
 
 
@@ -159,17 +160,18 @@ bottom: 17px;
 	opacity: 0.9;
 }
 
+.sBlock{
+	padding-top: 10px;
+	margin-left: 600px;
+	background-color: #3b83bd;
+	height: 350px;
+	width: 300px;
+}
+
 .slider{
     padding-top: 5px;
 	padding-left: 20px;  
  }
-
-.txt{
-	width: 300px;
-	height: 100px;
-	position: relative;
-	left: 10px;
-}
 
 .rslides_tabs {
   list-style: none;
@@ -217,11 +219,11 @@ a {
   text-decoration: none;
   }
 
-.st_for_txt{
-  color:blue;
+.text{
+  color:#d8eff2;
   text-align: center;
   text-transform: uppercase;
-  font-family: 'Patua One', cursive;
+  font-family: 'Righteous', cursive;
 }
 
 footer{
