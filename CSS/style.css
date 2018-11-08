@@ -231,4 +231,14 @@ footer{
 	height: 200px;
 	background-color: #161a1f;
 	opacity: 0.8;
+	color:#4682b4; 
+}
+
+textarea{
+	position: relative;
+	bottom: 30px;
+	left:150px;
+	width: 200px;
+	height: 70px;
+	color:#0a4761;
 }
